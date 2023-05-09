@@ -1,1 +1,1 @@
-# Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning
+# 딥러닝을 이용한 피부암 진단 원격 의료 서비스

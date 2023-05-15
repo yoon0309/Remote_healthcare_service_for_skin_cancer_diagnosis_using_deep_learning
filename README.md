@@ -1,7 +1,7 @@
 # Cp1: 딥러닝을 이용한 피부암 진단 원격 의료 서비스
 
 
-## **1. 데이터 셋 설명 **
+## **1. 데이터 셋 설명**
 
 - 흑색종 검출 데이터셋: [https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection](https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection)
 - HAM10000 데이터셋: [https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-) classification?select=masks

@@ -59,7 +59,7 @@
 
 비대면 진료 앱(앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등)의 후기의 동향을 살펴보았을 떄, 
 
-- 3점 이상 후기 가중치, 빈도
+**3점 이상 후기 가중치, 빈도**
 
 ![Untitled (4)](https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/2c9dcecf-9a9f-486c-9b85-f0a619a7a50d)
 
@@ -71,7 +71,7 @@
 - 지방의 경우에도 수도권 병원에서 비대면 진료를 볼 수 있어 편리
 - 거동이 불편하신 분들이 원격 진료를 볼 수 있어 편리
 
-- 3점 이하 후기 가중치, 빈도
+**3점 이하 후기 가중치, 빈도**
 
 ![Untitled (5)](https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/1c97032e-84aa-4483-a40c-264b28af71cd)
 

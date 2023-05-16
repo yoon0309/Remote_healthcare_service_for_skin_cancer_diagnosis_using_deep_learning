@@ -57,7 +57,7 @@
 
 -> 이 지역으로 인해 지방의료 감소로 인해 고령인구가 많은 지방이 상대적으로 의료 혜택을 보기 어려운 상황 
 
-비대면 진료 앱(앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등)의 후기의 동향을 살펴보았을 떄, 
+비대면 진료 앱(앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등)의 후기의 동향을 살펴보았을 때, 
 
 **3점 이상 후기 가중치, 빈도**
 
@@ -83,6 +83,9 @@
 
 - 대시보드
 [https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc\](https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc%5C) [https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc\](https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc%5C) [https://datastudio.google.com/reporting/8d139f58-d8f8-41bb-ab98-b23181b5bc97](https://datastudio.google.com/reporting/8d139f58-d8f8-41bb-ab98-b23181b5bc97)
+
+
+딥러닝을 통한 이미지 분류 데이터 셋은
 
 <img width="996" alt="198942981-445076c5-aa87-4fab-9330-741602d824a8" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/d323c4aa-cd56-48d7-9497-00945f199943">
 

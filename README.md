@@ -51,7 +51,7 @@
 따라서 전라남도, 경상북도, 전라북도 지역의 지방의료 감소로 고령인구가 많은 지방이 상대적으로 의료 혜택을 보기 어려운 상황에 처해있음을 확인 할 수 있었습니다. 
 
 
-비대면 진료 앱(앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등)의 후기의 동향을 살펴보았을 때, 
+현재 시중에 사용되고 있는 비대면 진료 앱(앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등)의 후기의 동향을 살펴보았을 때, 
 
 **3점 이상 후기 가중치, 빈도**
 
@@ -86,13 +86,16 @@
 흩어진 이미지 데이터를 위와 같은 방법으로 합쳐서 진행하였습니다. 
 
 ## **5. 결과정리** 
-    
+- DA
+
+
+
+- DS / DE 파트 
 <img width="1108" alt="198943176-81bd3dfc-d82c-4174-9740-976d5f413915" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/f110ca1d-465e-44a3-9b1a-6628c83fcfbe">
 <img width="865" alt="198946620-863855de-d1fa-4554-b235-4cf6962e3f2a" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/db482678-5da1-4de3-a9a5-288d0225f25e">
 
-
 - 시연 영상 [https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4](https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4)
-- 발표영상 [https://youtu.be/rfUzJfn5rwQ](https://youtu.be/rfUzJfn5rwQ)
+
 
 ## **6. 한계점 및 해결방안**
 기획에 집중해서 이전에 진행한 프로젝트처럼 모델의 성능, 기능을 다루지 못해서 아쉬웠습니다.

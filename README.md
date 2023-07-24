@@ -88,7 +88,7 @@
 
 딥러닝을 통한 이미지 분류 데이터 셋은
 
-<img width="996" alt="198942981-445076c5-aa87-4fab-9330-741602d824a8" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/d323c4aa-cd56-48d7-9497-00945f199943">
+<img width="800" alt="198942981-445076c5-aa87-4fab-9330-741602d824a8" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/d323c4aa-cd56-48d7-9497-00945f199943">
 
 흩어진 이미지 데이터를 위와 같은 방법으로 합쳐서 진행하였습니다. 
 
@@ -104,8 +104,8 @@
 
 
 - DS / DE 파트 
-<img width="1108" alt="198943176-81bd3dfc-d82c-4174-9740-976d5f413915" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/f110ca1d-465e-44a3-9b1a-6628c83fcfbe">
-<img width="865" alt="198946620-863855de-d1fa-4554-b235-4cf6962e3f2a" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/db482678-5da1-4de3-a9a5-288d0225f25e">
+<img width="800" alt="198943176-81bd3dfc-d82c-4174-9740-976d5f413915" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/f110ca1d-465e-44a3-9b1a-6628c83fcfbe">
+<img width="800" alt="198946620-863855de-d1fa-4554-b235-4cf6962e3f2a" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/db482678-5da1-4de3-a9a5-288d0225f25e">
 
 - 시연 영상 [https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4](https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4)
 
@@ -113,3 +113,4 @@
 ## **6. 한계점 및 해결방안**
 
 기획에 집중해서 이전에 진행한 프로젝트처럼 모델의 성능, 기능을 다루지 못해서 아쉬웠으며 데이터분석의 부족함이 느껴졌던 프로젝트였습니다. 
+프로젝트를 발전시 리뷰 크롤링을 다시 하여 NLP분석 위주의 데이터분석을 재진행할 예정입니다.   

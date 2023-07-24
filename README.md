@@ -6,6 +6,13 @@
 - 흑색종 검출 데이터셋: [https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection](https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection)
 - HAM10000 데이터셋: [https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-) classification?select=masks
 - 흑색종 피부암 데이터셋: [https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
+- 통계청
+    - KOSIS 고령인구비율 , 행정구역별 위경도
+- 보건의료빅데이터개방시스템
+    - 피부암 환자수 추이, 성별 연령구간별 내원일수
+- 공공데이터포털
+    - 전국의료기관표준데이터
+- 앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등의 리뷰
 
 ## **2. 프로젝트에서 풀고자 하는 문제 (문제인식, 문제 정의, 가설)**
 
@@ -88,6 +95,12 @@
 ## **5. 결과정리** 
 - DA
 
+이번 분석을 통해서 피부암 환자는 꾸준히 증가 추세를 보이고 있으며 남/여를 구분해서 확인하였을 때, 여자, 50세 이상의 고령 환자의 비율이 높았음을 시각적으로 확인할 수 있었습니다.
+또한, 고령인구와 전국 병원분포 낮은 순위로 확인해 보았을 때, 경상북도, 전라북도, 전라남도를 꼽을 수 있었습니다.
+현재 시중에 사용되고 있는 비대면 앱 서비스 중 긍정 평가와 부정 평가로 나뉘어 확인할 수 있었는데 지방의 경우에는 연결된 병원이 없으며, 비대면 진료를 신청했음에도 불구하고 병원에서는 내원하길 원하여 거주지역 외의 타지역 병원과 연결되어 내원이 불편한 경험을 공유받았습니다.
+
+-> 본 분석을 통해 피부암 환자의 동향을 시각적으로 확인할 수 있었고, 현재 시중에 사용되고 있는 비대면 앱 서비스에서의 평가를 확인할 수 있었다. 
+또한, 웹 앱서비스시 지역의 대형병원 - 거주지의 어플리케이션이 아닌 지역병원-거주지로의 확대시 거주지 근처의 병원의 수를 확인하는 추가적 분석이 필요가 있다. 
 
 
 - DS / DE 파트 
@@ -98,14 +111,5 @@
 
 
 ## **6. 한계점 및 해결방안**
-기획에 집중해서 이전에 진행한 프로젝트처럼 모델의 성능, 기능을 다루지 못해서 아쉬웠습니다.
-또한, 하드웨어 관련 문제로 딥러닝을 웹에 적응하지 못하였음이 아쉬웠던 프로젝트였습니다.  
 
-
-## **7. 출처**
-- 통계청
-    - KOSIS 고령인구비율 , 행정구역별 위경도
-- 보건의료빅데이터개방시스템
-    - 피부암 환자수 추이, 성별 연령구간별 내원일수
-- 공공데이터포털
-    - 전국의료기관표준데이터
+기획에 집중해서 이전에 진행한 프로젝트처럼 모델의 성능, 기능을 다루지 못해서 아쉬웠으며 데이터분석의 부족함이 느껴졌던 프로젝트였습니다. 

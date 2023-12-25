@@ -3,18 +3,17 @@
 
 ## **1. 데이터 셋 설명**
 
-- 흑색종 검출 데이터셋: [https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection](https://www.kaggle.com/datasets/wanderdust/skin-lesion-analysis-toward-melanoma-detection)
-- HAM10000 데이터셋: [https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-) classification?select=masks
-- 흑색종 피부암 데이터셋: [https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
+- 앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등의 리뷰
+  
 - 통계청
     - KOSIS 고령인구비율 , 행정구역별 위경도
 - 보건의료빅데이터개방시스템
     - 피부암 환자수 추이, 성별 연령구간별 내원일수
 - 공공데이터포털
     - 전국의료기관표준데이터
-- 앱스토어의 굿닥, 나만의 닥터, 닥터온, 똑닥, 모비닥, 엠비닥 등의 리뷰
 
 ## **2. 프로젝트에서 풀고자 하는 문제 (문제인식, 문제 정의, 가설)**
+
 
 프로젝트의 목적으로는 100% 원격 진료 서비스로 수도권 병원의 서비스를 의료 취약 계층의 접근의 원활하게 하는 것, 
 피부암과 같은 자가진단이 어려운 질병을 딥러닝 머신 구현을 통해 간단하고 정확히 진단 받도록 하는 것입니다. 
@@ -23,6 +22,7 @@
 왜 피부암인가? 
 - UV-C(파장: 200~280nm)와 같은 유해 자외선은 대부분 지표에 도달하지 않지만, 환경문제로 오존층에 구멍(오존홀)이 생기는 경우 지상에 도달하게 되는데, 이때 사람들의 세포조직을 손상시켜 피부암을 초래합니다.
 - 피부암 방치 시에는 피하조직과 근육, 심지어 뼈에 전이되어 피부와 장기에 있는 정상세포의 활동을 방해합니다.
+
 
 ## **3. 프로젝트 진행과정**
 <img width="500" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/72b58902-25bc-4110-b0d8-fce907dd416f"> 
@@ -86,11 +86,6 @@
 [https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc\](https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc%5C) [https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc\](https://datastudio.google.com/reporting/f7b1d164-2672-4212-a229-db72227e66d1/page/p_o9k9aizkyc%5C) [https://datastudio.google.com/reporting/8d139f58-d8f8-41bb-ab98-b23181b5bc97](https://datastudio.google.com/reporting/8d139f58-d8f8-41bb-ab98-b23181b5bc97)
 
 
-딥러닝을 통한 이미지 분류 데이터 셋은
-
-<img width="800" alt="198942981-445076c5-aa87-4fab-9330-741602d824a8" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/d323c4aa-cd56-48d7-9497-00945f199943">
-
-흩어진 이미지 데이터를 위와 같은 방법으로 합쳐서 진행하였습니다. 
 
 ## **5. 결과정리** 
 - DA
@@ -98,16 +93,6 @@
 이번 분석을 통해서 피부암 환자는 꾸준히 증가 추세를 보이고 있으며 남/여를 구분해서 확인하였을 때, 여자, 50세 이상의 고령 환자의 비율이 높았음을 시각적으로 확인할 수 있었습니다.
 또한, 고령인구와 전국 병원분포 낮은 순위로 확인해 보았을 때, 경상북도, 전라북도, 전라남도를 꼽을 수 있었습니다.
 현재 시중에 사용되고 있는 비대면 앱 서비스 중 긍정 평가와 부정 평가로 나뉘어 확인할 수 있었는데 지방의 경우에는 연결된 병원이 없으며, 비대면 진료를 신청했음에도 불구하고 병원에서는 내원하길 원하여 거주지역 외의 타지역 병원과 연결되어 내원이 불편한 경험을 공유받았습니다.
-
--> 본 분석을 통해 피부암 환자의 동향을 시각적으로 확인할 수 있었고, 현재 시중에 사용되고 있는 비대면 앱 서비스에서의 평가를 확인할 수 있었다. 
-또한, 웹 앱서비스시 지역의 대형병원 - 거주지의 어플리케이션이 아닌 지역병원-거주지로의 확대시 거주지 근처의 병원의 수를 확인하는 추가적 분석이 필요가 있다. 
-
-
-- DS / DE 파트 
-<img width="800" alt="198943176-81bd3dfc-d82c-4174-9740-976d5f413915" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/f110ca1d-465e-44a3-9b1a-6628c83fcfbe">
-<img width="800" alt="198946620-863855de-d1fa-4554-b235-4cf6962e3f2a" src="https://github.com/yoon0309/Remote_healthcare_service_for_skin_cancer_diagnosis_using_deep_learning/assets/102473586/db482678-5da1-4de3-a9a5-288d0225f25e">
-
-- 시연 영상 [https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4](https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4)
 
 
 ## **6. 한계점 및 해결방안**
